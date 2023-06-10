@@ -9,7 +9,7 @@
 
 # In[6]:
 
-
+print("hello world")
 A=50
 B=30
 if A>B:
@@ -39,7 +39,6 @@ elif grade>=70 :
     print('有及格')
 
 print('結束')
-
 
 # In[11]:
 
